@@ -85,7 +85,7 @@ Step 7: Stop the program.<br>
 ```
 ### Output/Plan:
 
-
+![WhatsApp Image 2023-10-26 at 4 20 01 PM](https://github.com/MaheshS03/AI_Lab_2023-24/assets/128498431/a97061c0-2cfc-46fd-9deb-47b588a8ba15)
 
 ### Result:
 Thus the plan was found for the initial and goal state of given problem.
