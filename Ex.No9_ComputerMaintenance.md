@@ -40,18 +40,9 @@ problem(two_short_beeps).
 problem(blank_display). 
 ```
 
-
-
-
-
-
-
-
-
-
 ### Output:
 
-
+![WhatsApp Image 2023-10-26 at 4 20 03 PM (2)](https://github.com/MaheshS03/AI_Lab_2023-24/assets/128498431/b6bdddb7-d08e-4de5-aca4-6cbbcdc57495)
 
 ### Result:
 Thus the simple omputer maintenance expert system was built sucessfully.
