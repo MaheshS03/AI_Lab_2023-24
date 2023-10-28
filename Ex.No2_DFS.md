@@ -1,6 +1,6 @@
 # Ex.No: 2  Implementation of Depth First Search
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 212221040095
 ### AIM: 
 To write a python program to implement Depth first Search. 
 ### Algorithm:
@@ -33,18 +33,9 @@ print("Following is the Depth-First Search")
 dfs(visited, graph, '5') 
 ```
 
-
-
-
-
-
-
-
-
-
 ### Output:
 
-
+![Screenshot 2023-10-28 105331](https://github.com/MaheshS03/AI_Lab_2023-24/assets/128498431/18f04d45-5cec-4061-8cc6-1526db22f702)
 
 ### Result:
 Thus the depth first search order was found sucessfully.
