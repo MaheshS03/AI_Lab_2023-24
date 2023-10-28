@@ -66,8 +66,13 @@ Step 10 : Obtain the plan for given problem.<br>
  (:goal (and (on a b) (on b c))))
 ```
 ### Output/Plan:
+#### Problem 1:
 
+![WhatsApp Image 2023-10-26 at 4 19 57 PM](https://github.com/MaheshS03/AI_Lab_2023-24/assets/128498431/c74579bd-b6ac-4f4d-b1c7-13c1e310f09b)
 
+#### Problem 2:
+
+![WhatsApp Image 2023-10-26 at 4 20 02 PM](https://github.com/MaheshS03/AI_Lab_2023-24/assets/128498431/59731b20-c1c4-4ebb-8ca4-0af301f96b58)
 
 ### Result:
 Thus the plan was found for the initial and goal state of block world problem.
