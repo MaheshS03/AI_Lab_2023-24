@@ -1,6 +1,6 @@
 # Ex.No: 10  Logic Programming –  Simple queries from facts and rules
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 212221040095
 ### AIM: 
 To write a prolog program to find the answer of query. 
 ###  Algorithm:
@@ -35,6 +35,8 @@ food(peanuts).
 ```
 
 ### Output:
+
+![WhatsApp Image 2023-10-26 at 4 20 03 PM (3)](https://github.com/MaheshS03/AI_Lab_2023-24/assets/128498431/427b0227-c549-4635-a046-0c90a15548ff)
 
 ### Task 2:
 Consider the following facts and represent them in predicate form: <br>              
