@@ -58,6 +58,8 @@ course(bk301,dept(havefun)).
 
 ### Output:
 
+![image](https://github.com/MaheshS03/AI_Lab_2023-24/assets/128498431/0cf791c8-5aa6-48fc-9d6a-73e04e08a499)
+
 ### Task 3:
 Consider the statement <br> 
 “This is a crime for an American to sell weapons to hostile nations. The Nano , enemy of America has some missiles and its missiles were sold it by Colonal West who is an American” <br> 
@@ -83,6 +85,8 @@ american(west).
 ```
 
 ### Output:
+
+![Screenshot 2023-10-28 111318](https://github.com/MaheshS03/AI_Lab_2023-24/assets/128498431/c04f02d5-144f-49ad-8815-3d1e80231f0e)
 
 ### Result:
 Thus the prolog programs were executed successfully and the answer of query was found.
