@@ -1,6 +1,6 @@
 # Ex.No: 6   Logic Programming –  Towers of Hanoi    
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 212221040095
 ### AIM: 
 To  write  a logic program  to solve Towers of Hanoi problem  using SWI-PROLOG. 
 ### Algorithm:
@@ -29,10 +29,9 @@ move(N,X,Y,Z) :-
  move(M,Z,Y,X).
 ```
 
-
 ### Output:
 
-
+![WhatsApp Image 2023-10-26 at 3 48 19 PM](https://github.com/MaheshS03/AI_Lab_2023-24/assets/128498431/444efaaa-5aeb-474c-8d07-43a393d6d204)
 
 ### Result:
 Thus the solution of Towers of Hanoi problem was found by logic programming.
