@@ -23,8 +23,7 @@ factorial(A,B) :-
 
 ### Output:
 
-
-![WhatsApp Image 2023-10-26 at 3 48 18 PM](https://github.com/MaheshS03/AI_Lab_2023-24/assets/128498431/ba33c2f8-0e99-4821-960e-91385e3f25c3)
+![WhatsApp Image 2023-10-26 at 3 48 18 PM](https://github.com/MaheshS03/AI_Lab_2023-24/assets/128498431/49dd8291-e6b1-4272-aca7-248062af2300)
 
 ### Result:
 Thus the factorial of given number was found by logic programming. 
