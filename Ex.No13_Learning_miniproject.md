@@ -1,5 +1,5 @@
 # Ex.No: 10 Learning – Use Supervised Learning  
-### DATE:                                                                            
+### DATE: 28.10.2023                                                                       
 ### REGISTER NUMBER : 212221040095
 ### AIM: 
 To write a program to train the classifier for Diabetes Prediction.
@@ -95,7 +95,11 @@ app.launch(share=True)
 ```
 
 ### Output:
+![WhatsApp Image 2023-11-04 at 8 44 39 AM](https://github.com/MaheshS03/AI_Lab_2023-24/assets/128498431/d558b181-c164-4e34-870d-e0a18e372474)
 
+![WhatsApp Image 2023-11-04 at 8 44 31 AM](https://github.com/MaheshS03/AI_Lab_2023-24/assets/128498431/82ad0599-dcfd-4da1-a054-5cf7eeb29cea)
+
+![WhatsApp Image 2023-11-04 at 8 37 56 AM](https://github.com/MaheshS03/AI_Lab_2023-24/assets/128498431/d986d530-05ef-4040-848f-03870f08f7ea)
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
