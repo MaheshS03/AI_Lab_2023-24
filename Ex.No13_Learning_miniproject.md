@@ -38,6 +38,8 @@ drive.mount('/content/gdrive')
 
 pip install gradio
 
+pip install typing-extensions --upgrade
+
 import gradio as gr
 
 cd /content/gdrive/MyDrive/demo/gradio_project-main
