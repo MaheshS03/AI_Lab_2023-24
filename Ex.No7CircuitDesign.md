@@ -1,5 +1,5 @@
 # Ex.No: 7  Logic Programming –  Logic Circuit Design
-### DATE:                                                                            
+### DATE: 02.09.2023                                                                      
 ### REGISTER NUMBER : 212221040095
 ### AIM: 
 To write a logic program to design a circuit like half adder and half subtractor.
@@ -39,4 +39,4 @@ halfsubtractor(A,B,Diff,Bo):-
 ![WhatsApp Image 2023-10-26 at 4 20 03 PM (1)](https://github.com/MaheshS03/AI_Lab_2023-24/assets/128498431/767e96d4-0311-48b5-b478-c096aa457267)
 
 ### Result:
-Thus the truth table of circuit verified sucessfully.
+Thus the truth table of circuit verified successfully.
